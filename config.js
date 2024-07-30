@@ -25,7 +25,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 global.devs = "923281514844" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "263778389057,2348169546065";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "263778389057,2348169546065,2348162139814";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923281514844";
 
 
